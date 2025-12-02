@@ -76,7 +76,7 @@ Down below we illustrated the official results of our paper. Please note that th
 
 ## Citation
 ```citation
-@article{beyond-query-generation,
+@article{fit-sql,
     author  =   {Cservenka Markus},
     title   =   {Text-to-SQL Under Realistic Conditions: Multi-Type Benchmarking and FIT-SQL Evaluation},
     year    =   {2025}
