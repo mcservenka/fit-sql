@@ -1,0 +1,1 @@
+create data/datasets/ directory and store raw dataset files of Spider and BIRD in there
